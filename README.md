@@ -12,7 +12,7 @@ The BMI Calculator App is designed to help users calculate their Body Mass Index
 ## System Requirements
 
 - Flutter SDK
-- Operating System: Windows / macOS / Linux
+- Operating System: Windows / macOS 
 - Android Studio or Visual Studio Code for code editing
 
 ## How to Use
